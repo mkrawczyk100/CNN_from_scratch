@@ -18,7 +18,6 @@ project_root/
 ├── MyANN.py          # Implementacja warstw sieci i optymalizatora SGD
 ├── keras_imp.py      # Implementacja modelu CNN w Keras
 ├── README.md         # Dokumentacja projektu
-└── docs/             # Wizualizacje wyników 
 ```
 
 ### ⚙️ Wymagania
